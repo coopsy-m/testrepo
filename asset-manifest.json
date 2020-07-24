@@ -1,13 +1,13 @@
 {
-  "main.css": "/serverless-app/static/css/main.eacf4d4a.chunk.css",
-  "main.js": "/serverless-app/static/js/main.40823860.chunk.js",
-  "main.js.map": "/serverless-app/static/js/main.40823860.chunk.js.map",
-  "static/js/1.25fefb47.chunk.js": "/serverless-app/static/js/1.25fefb47.chunk.js",
-  "static/js/1.25fefb47.chunk.js.map": "/serverless-app/static/js/1.25fefb47.chunk.js.map",
-  "runtime~main.js": "/serverless-app/static/js/runtime~main.01b85800.js",
-  "runtime~main.js.map": "/serverless-app/static/js/runtime~main.01b85800.js.map",
-  "static/css/main.eacf4d4a.chunk.css.map": "/serverless-app/static/css/main.eacf4d4a.chunk.css.map",
-  "index.html": "/serverless-app/index.html",
-  "precache-manifest.983901bf3e24838e686627ee6f72e1f0.js": "/serverless-app/precache-manifest.983901bf3e24838e686627ee6f72e1f0.js",
-  "service-worker.js": "/serverless-app/service-worker.js"
+  "main.css": "/testrepo/static/css/main.eacf4d4a.chunk.css",
+  "main.js": "/testrepo/static/js/main.ac6a700d.chunk.js",
+  "main.js.map": "/testrepo/static/js/main.ac6a700d.chunk.js.map",
+  "static/js/1.25fefb47.chunk.js": "/testrepo/static/js/1.25fefb47.chunk.js",
+  "static/js/1.25fefb47.chunk.js.map": "/testrepo/static/js/1.25fefb47.chunk.js.map",
+  "runtime~main.js": "/testrepo/static/js/runtime~main.5a6cece6.js",
+  "runtime~main.js.map": "/testrepo/static/js/runtime~main.5a6cece6.js.map",
+  "static/css/main.eacf4d4a.chunk.css.map": "/testrepo/static/css/main.eacf4d4a.chunk.css.map",
+  "index.html": "/testrepo/index.html",
+  "precache-manifest.b096a5261c908a9b79220aef34b3d856.js": "/testrepo/precache-manifest.b096a5261c908a9b79220aef34b3d856.js",
+  "service-worker.js": "/testrepo/service-worker.js"
 }
