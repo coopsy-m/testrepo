@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "96a6f083f6d7ed16f435",
+    "revision": "1fd275cc790a6b797f3f",
     "url": "/serverless-app/static/css/main.eacf4d4a.chunk.css"
   },
   {
-    "revision": "96a6f083f6d7ed16f435",
-    "url": "/serverless-app/static/js/main.96a6f083.chunk.js"
+    "revision": "1fd275cc790a6b797f3f",
+    "url": "/serverless-app/static/js/main.1fd275cc.chunk.js"
   },
   {
     "revision": "25fefb47281837bceff7",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/serverless-app/static/js/runtime~main.01b85800.js"
   },
   {
-    "revision": "f78d980d57ee337376ce71cc41f0a038",
+    "revision": "0a7c5044a1bded74a8acbccf1dd2bb04",
     "url": "/serverless-app/index.html"
   }
 ];
