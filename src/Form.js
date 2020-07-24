@@ -25,7 +25,8 @@ export default class Form extends Component {
     const { name, message } = this.state;
     await axios.post(
       'https://qf9k9n6x09.execute-api.ap-southeast-2.amazonaws.com/default/serverlessAppFunction',
-      { key1: `${name}, ${message}` }
+      { key1: `${name},
+        key2: ${message}` }
     );
   }
 
@@ -33,7 +34,7 @@ export default class Form extends Component {
     return (
       <div>
         <form onSubmit={this.handleSubmit}>
-          <label>Name:</label>
+          <label>Score 1:</label>
           <input
             type="text"
             name="name"
@@ -41,7 +42,7 @@ export default class Form extends Component {
             value={this.state.name}
           />
 
-          <label>Message:</label>
+          <label>Score 2:</label>
           <input
             type="text"
             name="message"
