@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gulikholmatova.github.io/serverless-app/",
+  "homepage": "https://coopsy-m.github.io/testrepo/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
