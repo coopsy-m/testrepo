@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/serverless-app/precache-manifest.87513f35824dc91a0636b27746e96a61.js"
+  "/serverless-app/precache-manifest.983901bf3e24838e686627ee6f72e1f0.js"
 );
 
 workbox.clientsClaim();
